@@ -1,0 +1,27 @@
+{
+  "name": "autoprefixer-grid",
+  "version": "1.0.0",
+  "description": "Testing out the autoprefixer with CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhansolo/autoprefixer-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serhansolo/autoprefixer-grid/issues"
+  },
+  "homepage": "https://github.com/Serhansolo/autoprefixer-grid#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.4.4",
+    "child_process": "^1.0.2",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}

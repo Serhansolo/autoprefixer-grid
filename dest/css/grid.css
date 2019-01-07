@@ -1,0 +1,10 @@
+h1:-webkit-full-screen {
+  background: red; }
+h1:-moz-full-screen {
+  background: red; }
+h1:-ms-fullscreen {
+  background: red; }
+h1:fullscreen {
+  background: red; }
+
+/*# sourceMappingURL=sourcemaps/grid.css.map */
